@@ -26,7 +26,7 @@ variable "location_1" {
 variable "location_2" {
   description = "Azure region for Subscription 2"
   type        = string
-  default     = "norwaywest"
+  default     = "norwayeast"
 }
 
 variable "location_3" {
